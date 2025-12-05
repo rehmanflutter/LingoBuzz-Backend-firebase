@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- ✅ Define your app’s primary color -->
+    <color name="primaryColor">#2196F3</color> <!-- You can change to your theme color -->
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+</resources>

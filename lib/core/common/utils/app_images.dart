@@ -1,0 +1,56 @@
+class AppImages {
+  static String imagesPath = 'assets/images/';
+  static String buzzy = '${imagesPath}Buzzy.png';
+  static String dame = '${imagesPath}dame.jpeg';
+  static String book = '${imagesPath}book.svg';
+  static String buzzyleft = '${imagesPath}Buzzyleft.png';
+  static String star = '${imagesPath}star.svg';
+  static String volumeUp = '${imagesPath}volumeUp.svg';
+  static String learning = '${imagesPath}learning.svg';
+  static String trophy = '${imagesPath}trophy.svg';
+  static String lock = '${imagesPath}lock.svg';
+  static String circular = '${imagesPath}circular.svg';
+  static String soundIcon = '${imagesPath}soundIcon.svg';
+  static String staricon = '${imagesPath}staricon.svg';
+  static String notification = '${imagesPath}notification.svg';
+  static String notifications = '${imagesPath}notifications.svg';
+  static String clucal = '${imagesPath}clucal.svg';
+  static String checkBox = '${imagesPath}checkBox.svg';
+  static String allok = '${imagesPath}allok.svg';
+  // static String telegram = '${imagesPath}Telegram.svg';
+  static String home = '${imagesPath}home.svg';
+  static String homefill = '${imagesPath}homefill.svg';
+  static String setting = '${imagesPath}setting.svg';
+  static String myWorld = '${imagesPath}myWorld.svg';
+  static String pro = '${imagesPath}pro.svg';
+  static String proFill = '${imagesPath}proFill.svg';
+  static String proful = '${imagesPath}proful.svg';
+  static String buzzysplish = '${imagesPath}buzzysplish.png';
+  static String splishcenter = '${imagesPath}splishcenter.svg';
+  static String lingoBuzzwithText = '${imagesPath}LingoBuzzwithText.svg';
+  static String proLogo = '${imagesPath}proLogo.png';
+
+  static String smalbook = '${imagesPath}smalbook.svg';
+
+  static String volume = '${imagesPath}volume_up.svg';
+  static String search = '${imagesPath}search.svg';
+  static String autoStorie = '${imagesPath}auto_stories.svg';
+  static String accountCircle = '${imagesPath}account_circle.svg';
+  static String language = '${imagesPath}language.svg';
+  static String notificationsUnread = '${imagesPath}notifications_unread.svg';
+  static String headphones = '${imagesPath}headphones.svg';
+  static String clarify = '${imagesPath}clarify.svg';
+  static String borderAll = '${imagesPath}border_all.svg';
+  static String buzzysad = '${imagesPath}buzzysad.png';
+  static String orange = '${imagesPath}orange.png';
+  static String loader = 'assets/loader.json';
+  // static String smalbook = '${imagesPath}smalbook.svg';
+  // static String smalbook = '${imagesPath}smalbook.svg';
+  // static String smalbook = '${imagesPath}smalbook.svg';
+  // static String smalbook = '${imagesPath}smalbook.svg';
+  // static String smalbook = '${imagesPath}smalbook.svg';
+  // static String smalbook = '${imagesPath}smalbook.svg';
+  // static String smalbook = '${imagesPath}smalbook.svg';
+  // static String smalbook = '${imagesPath}smalbook.svg';
+  // static String smalbook = '${imagesPath}smalbook.svg';
+}

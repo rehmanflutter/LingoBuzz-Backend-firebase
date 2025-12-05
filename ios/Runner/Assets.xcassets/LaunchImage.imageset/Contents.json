@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "Buzzy_the_Bee_01 4.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "Buzzy_the_Bee_01 2.png",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "Buzzy_the_Bee_01 3.png",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
