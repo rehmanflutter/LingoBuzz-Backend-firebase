@@ -196,7 +196,7 @@ This project is available for educational and personal use.
    <img src="https://github.com/user-attachments/assets/2638717b-8241-4bf2-b97b-89cec9c8c08e" width="30%" />
 </p>
 
-Uploading Screen Recording 2025-12-05 at 11.11.08 AM.mov…
+
 
 
 
