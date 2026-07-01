@@ -172,19 +172,26 @@ Lingo Buzz is a language-learning platform built with Flutter, designed to make 
 
 This project is available for educational and personal use.
 
-
+<h2 align="center">Screenshots</h2>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/d0d5d9ce-e4b8-468a-81b1-6fca6edb7ca6" width="30%">
-  <img src="https://github.com/user-attachments/assets/f4e7f8ae-0e0f-491a-b9b3-d9fc34c30d2f" width="30%">
-  <img src="https://github.com/user-attachments/assets/61a06753-ac21-4578-adb9-d3dd6a3f3d39" width="30%">
+  <img src="images/screenshot_1.png" width="30%" />
+  <img src="images/screenshot_2.png" width="30%" />
+  <img src="images/screenshot_3.png" width="30%" />
 </p>
 
 <p align="center">
-  <img src="images/screen1.png" width="30%">
-  <img src="images/screen2.png" width="30%">
-  <img src="images/screen3.png" width="30%">
+  <img src="images/screenshot_4.png" width="30%" />
+  <img src="images/screenshot_5.png" width="30%" />
+  <img src="images/screenshot_6.png" width="30%" />
 </p>
 
+<p align="center">
+  <img src="images/screenshot_7.png" width="30%" />
+  <img src="images/screenshot_8.png" width="30%" />
+  <img src="images/screenshot_9.png" width="30%" />
+</p>
 
-
+<p align="center">
+  <img src="images/screenshot_10.png" width="30%" />
+</p>
