@@ -172,6 +172,9 @@ Lingo Buzz is a language-learning platform built with Flutter, designed to make 
 
 This project is available for educational and personal use.
 
+
+![Uploading Whisk_8999229c0c4ad438d4447ef5714f0e93dr.png…]()
+
 <p align="center">
   <img src="https://github.com/user-attachments/assets/d0d5d9ce-e4b8-468a-81b1-6fca6edb7ca6" width="30%" />
   <img src="https://github.com/user-attachments/assets/f4e7f8ae-0e0f-491a-b9b3-d9fc34c30d2f" width="30%" />
