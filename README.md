@@ -171,8 +171,7 @@ Lingo Buzz is a language-learning platform built with Flutter, designed to make 
 ## License
 
 This project is available for educational and personal use.
-
-
+```html
 <p align="center">
   <img src="https://github.com/user-attachments/assets/d0d5d9ce-e4b8-468a-81b1-6fca6edb7ca6" width="30%" />
   <img src="https://github.com/user-attachments/assets/f4e7f8ae-0e0f-491a-b9b3-d9fc34c30d2f" width="30%" />
@@ -180,8 +179,7 @@ This project is available for educational and personal use.
 </p>
 
 <p align="center">
-    <img src="https://github.com/user-attachments/assets/3a9e355e-f00b-4560-b9ce-b7c702454b65" width="30%" />
- 
+  <img src="https://github.com/user-attachments/assets/3a9e355e-f00b-4560-b9ce-b7c702454b65" width="30%" />
   <img src="https://github.com/user-attachments/assets/f547ed2e-d98a-4231-b8ce-29b69cfaecde" width="30%" />
   <img src="https://github.com/user-attachments/assets/fcaca853-91b1-436f-a907-914555179a78" width="30%" />
 </p>
@@ -193,10 +191,9 @@ This project is available for educational and personal use.
 </p>
 
 <p align="center">
-   <img src="https://github.com/user-attachments/assets/2638717b-8241-4bf2-b97b-89cec9c8c08e" width="30%" />
+  <img src="https://github.com/user-attachments/assets/2638717b-8241-4bf2-b97b-89cec9c8c08e" width="30%" />
 </p>
-
-
+```
 
 
 
